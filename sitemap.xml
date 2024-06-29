@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mannekeenpis.github.io/categories/</loc>
+    <loc>https://mannekeenpis.github.io/tags/blog/</loc>
+    <lastmod>2024-06-26T20:41:28+03:00</lastmod>
+  </url><url>
+    <loc>https://mannekeenpis.github.io/tags/hello/</loc>
+    <lastmod>2024-06-26T20:41:28+03:00</lastmod>
+  </url><url>
+    <loc>https://mannekeenpis.github.io/posts/hello_world/</loc>
+    <lastmod>2024-06-26T20:41:28+03:00</lastmod>
   </url><url>
     <loc>https://mannekeenpis.github.io/</loc>
+    <lastmod>2024-06-26T20:41:28+03:00</lastmod>
+  </url><url>
+    <loc>https://mannekeenpis.github.io/posts/</loc>
+    <lastmod>2024-06-26T20:41:28+03:00</lastmod>
   </url><url>
     <loc>https://mannekeenpis.github.io/tags/</loc>
+    <lastmod>2024-06-26T20:41:28+03:00</lastmod>
+  </url><url>
+    <loc>https://mannekeenpis.github.io/tags/about/</loc>
+    <lastmod>2024-06-26T20:40:41+03:00</lastmod>
+  </url><url>
+    <loc>https://mannekeenpis.github.io/about/about/</loc>
+    <lastmod>2024-06-26T20:40:41+03:00</lastmod>
+  </url><url>
+    <loc>https://mannekeenpis.github.io/about/</loc>
+    <lastmod>2024-06-26T20:40:41+03:00</lastmod>
+  </url><url>
+    <loc>https://mannekeenpis.github.io/tags/me/</loc>
+    <lastmod>2024-06-26T20:40:41+03:00</lastmod>
+  </url><url>
+    <loc>https://mannekeenpis.github.io/categories/</loc>
   </url>
 </urlset>
